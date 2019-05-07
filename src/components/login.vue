@@ -20,6 +20,7 @@
 </template>
 <script>
 import axios from "axios"
+//dev version
 export default {
     data:function(){
         return{
