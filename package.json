@@ -1,0 +1,23 @@
+{
+    "name": "hello-koa2",
+    "version": "1.0.0",
+    "description": "Hello Koa2 example with async",
+    "main": "koa.js",
+    "scripts": {
+        "start": "node koa.js"
+    },
+    "keywords": [
+        "koa",
+        "async"
+    ],
+    "author": "Jokie",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "koa": "2.0.0",
+        "koa-bodyparser": "3.2.0",
+        "koa-router": "7.0.0",
+        "koa-session": "^5.10.1",
+        "koa2-cors": "^2.0.6",
+        "mongodb": "^3.2.3"
+    }
+}
